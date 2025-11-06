@@ -6,3 +6,4 @@
 3. [funkcje](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/03-funkcje.ipynb)
 4. [przetwarzanie tekstów](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/04-string.ipynb)
 5. [operacje wejścia/wyjścia](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/05-we_wy.ipynb)
+6. [programowanie obiektowe](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/06-obiekt.ipynb)
