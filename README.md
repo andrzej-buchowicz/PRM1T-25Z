@@ -11,3 +11,4 @@
 8. sprawdzian pisemny nr 1
 9. środowisko wirtualne
 10. [obliczenia numeryczn - pakiet `numpy`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/10-numpy.ipynb)
+11. [wizualizacja wyników obliczeń - pakiet `matplotlib`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/11-matplotlib.ipynb)
