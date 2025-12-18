@@ -10,5 +10,6 @@
 7. [obsługa błędów - wyjatki](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/07-wyjatki.ipynb)
 8. sprawdzian pisemny nr 1
 9. środowisko wirtualne
-10. [obliczenia numeryczn - pakiet `numpy`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/10-numpy.ipynb)
+10. [obliczenia numeryczne - pakiet `numpy`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/10-numpy.ipynb)
 11. [wizualizacja wyników obliczeń - pakiet `matplotlib`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/11-matplotlib.ipynb)
+12. [Przeysłanie danych w sieciach komputerowych](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/12-urllib_requests.ipynb)
