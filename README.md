@@ -13,3 +13,5 @@
 10. [obliczenia numeryczne - pakiet `numpy`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/10-numpy.ipynb)
 11. [wizualizacja wyników obliczeń - pakiet `matplotlib`](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/11-matplotlib.ipynb)
 12. [Przeysłanie danych w sieciach komputerowych](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/12-urllib_requests.ipynb)
+13. Złożonośc obliczeniowa algorytmu
+    * [pomiar czasu wykonania programu](https://github.com/andrzej-buchowicz/PRM1T-25Z/blob/main/13-pomiar_czasu.ipynb)
