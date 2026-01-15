@@ -10,6 +10,9 @@ class SinusTestCase(unittest.TestCase):
         self.assertAlmostEqual(sinus(math.pi / 2), 1.0)
         self.assertAlmostEqual(sinus(math.pi / 4), math.sqrt(2.) / 2)
 
+    def test_zly_typ_danych(self):
+        self.assertRaises(AssertionError, sinus, 'abc')
+
 
 if __name__ == '__main__':
     unittest.main()
