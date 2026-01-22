@@ -1,4 +1,4 @@
 /.ipynb_checkpoints
 /data/przedmioty.json
-/testy_jednostkowe/__pycache__
-/testy_jednostkowe/.idea
+__pycache__
+.idea
