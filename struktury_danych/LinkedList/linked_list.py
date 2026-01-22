@@ -52,6 +52,14 @@ class LinkedList:
         return elem_value
 
     def find(self, elem):
+        assert isinstance(elem, Element)
+        index = 0
+        curr_elem = self.head
+        while curr_elem is not None:
+            if curr_elem.value == elem.value:
+                return index
+            curr_elem = curr_elem.next
+            index += 1
         return -1
 
 
@@ -68,6 +76,10 @@ def main():
     print("\nIterator")
     for index, elem in enumerate(llist):
         print(index, elem)
+
+    print("\nMetoda find()")
+    for value in ['a', 'b', 'c', 'd']:
+        print(value, llist.find(Element(value)))
 
 
 if __name__ == "__main__":
